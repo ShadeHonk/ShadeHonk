@@ -1,5 +1,5 @@
 • 👋 Olá, eu sou Rafael Eduardo de Souza <br>
-• 🌱 Atualmente estou estudando principalmente PHP, Java, JS, CSS, e HTML.<br>
+• 🌱 Atualmente Trabalho principalmente com PHP, Java, JS, CSS, e HTML.<br>
 • 💞️ Estou na área de desenvolvimento a 4 anos.<br>
 • 📫 Você pode me contatar por linkedin: linkedin.com/in/rafael-eduardo-souza-a3b653214/ <br>
 • 📫 E-mail: rafael_eduardo1997@hotmail.com Ligação e WhatsApp: 47999978979
